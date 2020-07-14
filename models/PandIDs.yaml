@@ -1,0 +1,6 @@
+train: data/images/train/
+val: data/images/validation/
+
+nc: 27
+
+names: ['Arrowhead', 'Arrowhead + Triangle', 'Continuity Label', 'Control', 'Control Valve Globe', 'DB&BBV', 'DB&BBV + Valve Check', 'DB&BPV', 'ESDV Valve Ball', 'Exit to Atmosphere', 'Flange + Triangle', 'Flange Joint', 'Flange Single T-Shape', 'Injector Point', 'Reducer', 'Rupture Disc', 'Sensor', 'Spectacle Blind', 'Triangle', 'Valve', 'Valve Angle', 'Valve Ball', 'Valve Butterfly', 'Valve Check', 'Valve Globe', 'Valve Plug', 'Valve Slab Gate']
